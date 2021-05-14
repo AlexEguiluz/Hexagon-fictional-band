@@ -14,7 +14,7 @@ body {
     background-size: cover;
     background-position: center;
     padding: 25px;
-    background-image: url('hero.jpg');
+    background-image: url('/assets/hero.jpg');
     height: 800px;
   }
   
