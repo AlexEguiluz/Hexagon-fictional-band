@@ -6,6 +6,9 @@ This site is built with an outter container and inner container using different 
 We use Jquery in the store section menu and every time we hovers on the albums the price and title appears. 
 
 Check this website [here](https://hexagon-homework5.superhi.com)
+<br>
+<br>
+<br>
 
 
 
